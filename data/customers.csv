@@ -1,0 +1,6 @@
+Name,Email__c,Phone__c,Status__c
+John Doe,john.doe@example.com,555-0123,Active
+Jane Smith,jane.smith@example.com,555-0124,Active
+Bob Johnson,bob.johnson@example.com,555-0125,Inactive
+Sarah Wilson,sarah.wilson@example.com,555-0126,Active
+Mike Davis,mike.davis@example.com,555-0127,Suspended
