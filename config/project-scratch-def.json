@@ -1,0 +1,13 @@
+{
+  "orgName": "Customer Portal Dev Org",
+  "edition": "Developer",
+  "features": ["Communities", "Sites"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
