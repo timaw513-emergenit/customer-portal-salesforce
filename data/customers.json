@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Customer_Portal_User__c",
+        "referenceId": "Customer1"
+      },
+      "Name": "John Smith",
+      "Email__c": "john.smith@acme.com",
+      "Phone__c": "(555) 123-4567",
+      "Company__c": "Acme Corporation",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Customer_Portal_User__c",
+        "referenceId": "Customer2"
+      },
+      "Name": "Sarah Johnson",
+      "Email__c": "sarah.johnson@techcorp.com",
+      "Phone__c": "(555) 234-5678",
+      "Company__c": "TechCorp Solutions",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Customer_Portal_User__c",
+        "referenceId": "Customer3"
+      },
+      "Name": "Michael Brown",
+      "Email__c": "m.brown@globalinc.com",
+      "Phone__c": "(555) 345-6789",
+      "Company__c": "Global Inc",
+      "Status__c": "Active"
+    },
+    {
+      "attributes": {
+        "type": "Customer_Portal_User__c",
+        "referenceId": "Customer4"
+      },
+      "Name": "Emily Davis",
+      "Email__c": "emily.davis@innovatetech.com",
+      "Phone__c": "(555) 456-7890",
+      "Company__c": "Innovate Tech",
+      "Status__c": "Pending"
+    },
+    {
+      "attributes": {
+        "type": "Customer_Portal_User__c",
+        "referenceId": "Customer5"
+      },
+      "Name": "David Wilson",
+      "Email__c": "david.wilson@futuresoft.com",
+      "Phone__c": "(555) 567-8901",
+      "Company__c": "Future Software",
+      "Status__c": "Active"
+    }
+  ]
+}
