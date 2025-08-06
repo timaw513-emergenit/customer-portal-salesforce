@@ -1,13 +1,29 @@
 {
   "orgName": "Customer Portal Dev Org",
   "edition": "Developer",
-  "features": ["Communities", "Sites"],
+  "features": ["EnableSetPasswordInApi", "Communities", "Sites", "PersonAccounts"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "enableAdminLoginAsAnyUser": true,
+      "enableAuditFieldsInactiveOwner": false,
+      "enableClickjackProtection": true,
+      "enableCSPImgSrc": true,
+      "enableRequireHttpsConnection": false
+    },
     "communitiesSettings": {
       "enableNetworksEnabled": true
+    },
+    "userManagementSettings": {
+      "enableNewProfileUI": true
+    },
+    "pathAssistantSettings": {
+      "pathAssistantEnabled": true
     }
   }
 }

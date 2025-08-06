@@ -2,11 +2,17 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Customer Portal",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
   ],
-  "name": "customer-portal-salesforce",
+  "name": "Customer Portal Salesforce",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "64.0"
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "Customer Portal": "0Ho..."
+  }
 }
